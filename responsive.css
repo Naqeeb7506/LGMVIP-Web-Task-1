@@ -1,0 +1,120 @@
+@media screen and (max-width: 550px) {
+  .container {
+    width: 400px;
+    height: 400px;
+  }
+  .container h1 {
+    font-size: 35px;
+  }
+  .container input {
+    font-size: 20px;
+    padding: 12px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-right: 8px;
+  }
+  .container .add i {
+    padding: 10px;
+    margin-top: 18px;
+    font-size: 28px;
+    border-radius: 5px;
+  }
+  .container button {
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .container {
+    width: 300px;
+    height: 300px;
+  }
+  .container h1 {
+    font-size: 32px;
+  }
+  .container input {
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-right: 5px;
+  }
+  .container .add i {
+    padding: 8px;
+    margin-top: 15px;
+    font-size: 25px;
+    border-radius: 5px;
+  }
+  .container button {
+    padding: 10px 12px;
+    margin-bottom: 12px;
+    font-size: 18px;
+  }
+  .container ul li {
+    margin: 18px 0;
+    font-size: 22px;
+    padding: 12px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .container {
+    width: 250px;
+    height: 300px;
+  }
+  .container h1 {
+    font-size: 30px;
+  }
+  .container input {
+    font-size: 15px;
+    padding: 8px;
+    margin-top: 12px;
+  }
+  .container .add i {
+    padding: 5px;
+    margin-top: 12px;
+    font-size: 25px;
+    border-radius: 5px;
+  }
+  .container button {
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+  .container ul li {
+    margin: 15px 0;
+    font-size: 20px;
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 270px) {
+  .container {
+    width: 220px;
+    height: 300px;
+  }
+  .container h1 {
+    font-size: 28px;
+  }
+  .container input {
+    font-size: 12px;
+    padding: 5px;
+    margin-top: 10px;
+  }
+  .container .add i {
+    padding: 2px;
+    margin-top: 10px;
+    font-size: 22px;
+  }
+  .container button {
+    padding: 8px;
+    margin-bottom: 8px;
+    font-size: 12px;
+  }
+  .container ul li {
+    margin: 12px 0;
+    font-size: 15px;
+    padding: 8px;
+  }
+}
